@@ -1,0 +1,30 @@
+#sitio{
+    width:1000px;
+    height:1500px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:floralwhite;
+}
+
+#cabecera{
+    width:1000px;
+    height:100px;
+    background-color:floralwhite;
+    font-family: sans-serif;
+}
+
+#cuerpo{
+    width:1000;
+    height:1100px;
+    background-color:floralwhite;
+    font-family: sans-serif;
+}
+
+#pie{
+    width:1000px;
+    height:200;
+    background-color:floralwhite;
+    font-family: sans-serif;
+}
